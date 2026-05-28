@@ -13,7 +13,8 @@
         5
       ],
       "action": "briefing",
-      "enabled": true
+      "enabled": true,
+      "lastFiredAt": "2026-05-28"
     }
   ]
 }
